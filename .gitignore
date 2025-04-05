@@ -1,0 +1,39 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+JobNotesBackend/.vs/
+JobNotesBackend/*.user
+JobNotesBackend/*.suo
+
+# Build results
+JobNotesBackend/bin/
+JobNotesBackend/obj/
+JobNotesBackend/**/*.exe
+JobNotesBackend/**/*.dll
+JobNotesBackend/**/*.pdb
+
+# Rider IDE
+JobNotesBackend/.idea/
+
+# ASP.NET specific
+JobNotesBackend/App_Data/
+JobNotesBackend/App_Start/BundleConfig.cs
+
+# User-specific files
+JobNotesBackend/*.user
+JobNotesBackend/*.userosscache
+JobNotesBackend/*.sln.docstates
+
+# Logs
+*.log
+
+# Environment files
+JobNotesBackend/.env
+
+# Others
+*.tmp
+*.swp
