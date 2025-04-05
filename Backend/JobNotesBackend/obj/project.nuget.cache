@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+6fnbLmVRw=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\JobNotes\\Backend\\JobNotesBackend\\JobNotesBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ishtiaq\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Ishtiaq\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

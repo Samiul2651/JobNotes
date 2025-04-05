@@ -1,0 +1,6 @@
+@JobNotesBackend_HostAddress = http://localhost:5019
+
+GET {{JobNotesBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
